@@ -10,31 +10,6 @@
 // usage: yukkuri -o <output.wav>
 //                -p <phon>
 //                 <  string 
-// 声色リスト
-// +---------------------------------------------------------+
-// |       SofTalkの声 音声合成エンジン 声種 備考            |
-// +---------------------------------------------------------+
-// | 女性１ AquesTalk f1 女声１ ゆっくり霊夢でよく使われる   |
-// | 女性２ AquesTalk f2 女声２ ゆっくり魔理沙でよく使われる |
-// | 男性１ AquesTalk m1 男声１                              |
-// | 男性２ AquesTalk m2 男声２                              |
-// | ロボット AquesTalk r1 ロボット１                        |
-// | 中性 AquesTalk IMD1                                     |
-// | 機械  AquesTalk DVD                                     |
-// | 特殊 AquesTalk JGR                                      |
-// | 女性A AquesTalk2 defo1 別途公開                         |
-// | 女性B AquesTalk2 f1b 公開終了                           |
-// | 女性C AquesTalk2 f1c                                    |
-// | 女性D AquesTalk2 huskey                                 |
-// | 女性E AquesTalk2 momo1 別途公開                         |
-// | 女性F AquesTalk2 rb2                                    |
-// | 女性G AquesTalk2 rm                                     |
-// | 女性H AquesTalk2 yukkuri                                |
-// | 男性A AquesTalk2 m3 公開終了                            |
-// | 男性B AquesTalk2 m4                                     |
-// | ロボット2 AquesTalk2 robo                               |
-// | 中性2 AquesTalk2 teto1 別途公開                         |
-// +---------------------------------------------------------+
 //
 #include <iostream>
 #include <stdio.h>
