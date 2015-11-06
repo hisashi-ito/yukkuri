@@ -4,7 +4,7 @@ AquesTalk2 Linux  sample code
 Compile
 
 ```
-g++ -o yukkuri yukkuri.cpp -lAquesTalk2Eva
+$ g++ -o yukkuri yukkuri.cpp -lAquesTalk2Eva
 ```
 
 Execute
